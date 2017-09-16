@@ -1,3 +1,6 @@
+# conversion de tipos
+# propia
+
 precio = "45"
 
 if type(precio) == str:
