@@ -1,3 +1,6 @@
+# operadores aritmeticos
+# http://entrenamiento-python-basico.readthedocs.io/es/latest/leccion3/
+
 numero1 = 5
 numero2 = 2
 

@@ -28,6 +28,7 @@ tipo_diccionario = {
     }
 
 print(tipo_diccionario['nombres'])
+print(type(tipo_diccionario))
 
 if tipo_boolean:
 	print("el %s esta a %f" % (tipo_lista_productos[0], 
